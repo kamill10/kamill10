@@ -3,17 +3,17 @@
 Hi 👋, I'm Kamil Cieślak
 A third‑year student of Applied Computer Science at the Lodz University of Technology and full-stack developer.
 
-Languages and Tools:
-![image](https://github.com/kamill10/kamill10/assets/126703535/c48b893e-808a-46b2-80cd-86bb23cd5264)
-![image](https://github.com/kamill10/kamill10/assets/126703535/73bbd9f2-a77e-4607-a0f9-d4a3116e399e)
-![image](https://github.com/kamill10/kamill10/assets/126703535/7a2f7ed6-7513-44e2-86ff-d4445f86edee)
-![image](https://github.com/kamill10/kamill10/assets/126703535/2b900017-12df-4649-b82a-9595a18ac217)
-![image](https://github.com/kamill10/kamill10/assets/126703535/0d17fde3-21fa-434d-80b2-15afcf7c0b6c)
-![image](https://github.com/kamill10/kamill10/assets/126703535/2e8030b2-b252-459e-8222-bb47d4642804)
-![image](https://github.com/kamill10/kamill10/assets/126703535/00b5e206-7a33-424d-956f-fd7557faf8ba)
-![image](https://github.com/kamill10/kamill10/assets/126703535/0ed9d1db-611a-4bd8-bda4-61152c124922)
-![image](https://github.com/kamill10/kamill10/assets/126703535/b6775db4-1b0c-4b96-8842-71e74f1d24d9)
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kamill10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kamill10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamill10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=kamill10&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
