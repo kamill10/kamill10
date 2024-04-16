@@ -18,4 +18,6 @@ Hi 👋, I'm Kamil Cieślak
 A third‑year student of Applied Computer Science at the Lodz University of Technology and full-stack developer.
 
 Languages and Tools:
+![image](https://github.com/kamill10/kamill10/assets/126703535/c48b893e-808a-46b2-80cd-86bb23cd5264)
+
 java spring javascript python c# typescript react kafka redis postgresql mongodb docker jenkins
