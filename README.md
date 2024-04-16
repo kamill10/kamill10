@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi 👋, I'm Kamil Cieślak
+A third‑year student of Applied Computer Science at the Lodz University of Technology and full-stack developer.
+
+Languages and Tools:
+java spring javascript python c# typescript react kafka redis postgresql mongodb docker jenkins
