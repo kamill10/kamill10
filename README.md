@@ -26,7 +26,7 @@ A third‑year student of Applied Computer Science at the Lodz University of Tec
 ![Playwright](https://img.shields.io/badge/playwright-%2312100E.svg?style=for-the-badge&logo=playwright&logoColor=white)
 
 
-
+![Contribution Graph](https://github.com/kamill10)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kamill10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamill10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
