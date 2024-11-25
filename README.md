@@ -1,7 +1,7 @@
 
 
 Hi 👋, I'm Kamil Cieślak
-A third‑year student of Applied Computer Science at the Lodz University of Technology and full-stack developer.
+A fourth‑year student of Applied Computer Science at the Lodz University of Technology and full-stack developer.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
